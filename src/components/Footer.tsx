@@ -15,7 +15,7 @@ export const Footer: React.FC<Props> = ({
                 onFilterCheck={()=>{
 
                 }}
-                />
+            />
         </footer>
   )
 }
