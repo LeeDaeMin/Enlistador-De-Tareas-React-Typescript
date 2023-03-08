@@ -20,6 +20,11 @@ const mockTodos = [
     id: '3',
     title: 'Todo 3',
     completed: false
+  },
+  {
+    id: '4',
+    tittle: 'Todo 4',
+    completed: false
   }
 ]
 
